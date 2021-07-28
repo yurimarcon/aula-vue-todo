@@ -1,6 +1,7 @@
 # vue-todo
-![image](https://user-images.githubusercontent.com/44410208/127399567-ee45cb10-9296-4f1d-bb30-da736c748972.png)
+[👉 Visite a página do projeto 👈](https://aula-vue-todo.netlify.app/)
 
+![image](https://user-images.githubusercontent.com/44410208/127399567-ee45cb10-9296-4f1d-bb30-da736c748972.png)
 ![image](https://user-images.githubusercontent.com/44410208/127399444-214adb13-1541-468f-95e5-7da7c10da72e.png)
 ![image](https://user-images.githubusercontent.com/44410208/127399811-156578d1-80d6-4119-8857-5cfbd73a9059.png)
 
