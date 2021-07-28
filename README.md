@@ -20,7 +20,7 @@ Esse é um projeto para fins didáticos porém utilizamos diverssas tecnologias 
 - Localbase
 
 Caso fique dúvidas, tenho uma playlist no youtube que explica o projeto e fazemos juntos essa lista de tarefas:
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/fL2BAYzCIZs)
+[![Watch the video](https://user-images.githubusercontent.com/44410208/127400712-2850ba05-ddaa-42ba-ab00-2ac625b168ec.png)](https://youtu.be/fL2BAYzCIZs)
 
 Fique a vontade para entrar em contato em caso de dúvidas. (yuri.erik.oliveira@gmail.com)
 
