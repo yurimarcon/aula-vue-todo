@@ -1,7 +1,11 @@
 # vue-todo
-[👉 Visite a página do projeto 👈](https://aula-vue-todo.netlify.app/)
+
+> [👉 Visite a página do projeto 👈](https://aula-vue-todo.netlify.app/)
 
 ![image](https://user-images.githubusercontent.com/44410208/127399567-ee45cb10-9296-4f1d-bb30-da736c748972.png)
+
+## ScreenShots
+
 ![image](https://user-images.githubusercontent.com/44410208/127399444-214adb13-1541-468f-95e5-7da7c10da72e.png)
 ![image](https://user-images.githubusercontent.com/44410208/127399811-156578d1-80d6-4119-8857-5cfbd73a9059.png)
 
@@ -18,6 +22,6 @@ Esse é um projeto para fins didáticos porém utilizamos diverssas tecnologias 
 Caso fique dúvidas, tenho uma playlist no youtube que explica o projeto e fazemos juntos essa lista de tarefas:
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/fL2BAYzCIZs)
 
-Fique a vontade para entrar em contato em caso de dúvidas.
+Fique a vontade para entrar em contato em caso de dúvidas. (yuri.erik.oliveira@gmail.com)
 
 O maior objetivo desse projeto é compartilhar conhecimento. ✌️🤓
