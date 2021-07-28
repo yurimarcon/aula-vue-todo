@@ -8,10 +8,7 @@
 ## Apresentação do projeto
 Esse é um projeto para fins didáticos porém utilizamos diverssas tecnologias muito aplicaveis em projetos em ambientes produtivos, vamos trabalhar com:
 
-![image](https://user-images.githubusercontent.com/44410208/127399906-391975bd-d4f8-4e7c-af54-d974addf4cff.png)
- - Vuetify
-
-![image](https://user-images.githubusercontent.com/44410208/127399922-c2d4230e-e43a-48e9-9ee6-75987fc993f0.png)
+- Vuetify
 - VUEX
 - VUE ROUTER
 - Draggable
