@@ -32,11 +32,14 @@
 </template>
 
 <script>
+import { mapMutations } from 'vuex';
+const todoStore = "todoStore";
 export default {
   props:['tarefa'],
   methods:{
+    ...mapMutations(todoStore, ["removeTarefa"]),
     handleRemoveTarefa(id){
-      this.$store.commit('removeTarefa', id)
+      this.removeTarefa(id);
     }
   }
 }
