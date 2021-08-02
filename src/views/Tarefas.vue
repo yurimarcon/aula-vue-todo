@@ -51,9 +51,7 @@
       handleAddTarefa(){
         this.$store.commit('adicionaTarefa', this.campoInput)
         this.campoInput = null;
-      
       }
-      
     }
   }
 </script>
