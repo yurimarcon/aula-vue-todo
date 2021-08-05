@@ -21,7 +21,7 @@
         active-class=""
       >
       <div
-      v-for="tarefa, index in $store.state.tarefas"
+      v-for="tarefa, index in tarefas"
       :key="index"
       >
         <Tarefa
@@ -36,20 +36,25 @@
 
 <script>
   import Tarefa from '../components/tarefas/Tarefa.vue'
-
+  import { mapState, mapMutations } from 'vuex';
+  const todoStore = "todoStore";
   export default {
-    name: 'Home',
+    name: 'Tarefas',
     components: {
       Tarefa
     },
-    data(){
-      return{
+    computed: {
+      ...mapState(todoStore, ["tarefas"])
+    },
+    data() {
+      return {
         campoInput: null,
       }
     },
     methods:{
+      ...mapMutations(todoStore, ["adicionaTarefa"]),
       handleAddTarefa(){
-        this.$store.commit('adicionaTarefa', this.campoInput)
+        this.adicionaTarefa(this.campoInput);
         this.campoInput = null;
       }
     }

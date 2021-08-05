@@ -1,6 +1,5 @@
 <template>
   <v-app id="inspire">
-
     <v-navigation-drawer
     v-model="drawer"
     app
@@ -84,7 +83,7 @@
     data: () => ({ 
       drawer: null,
       items: [
-          { title: 'Trefas', icon: 'mdi-view-dashboard', to:'/' },
+          { title: 'Tarefas', icon: 'mdi-view-dashboard', to:'/' },
           { title: 'Sobre', icon: 'mdi-help-box', to:'/sobre'  },
         ],
     }),
