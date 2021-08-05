@@ -57,7 +57,6 @@
         this.adicionaTarefa(this.campoInput);
         this.campoInput = null;
       }
-      
     }
   }
 </script>
