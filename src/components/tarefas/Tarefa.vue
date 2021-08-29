@@ -2,7 +2,7 @@
   <div>
     <v-list-item
     :class="{'blue lighten-4':tarefa.concluido}"
-    @click="tarefa.concluido = !tarefa.concluido"
+    @click="$store.dispatch('concluiTarefa', tarefa)"
     >
       <template v-slot:default="{}">
         <v-list-item-action>
@@ -16,12 +16,6 @@
         </v-list-item-content>
 
         <v-list-item-action>
-          <!-- <v-btn 
-          icon
-          @click.stop="handleRemoveTarefa(tarefa.id)"
-          >
-            <v-icon color="red lighten-1">mdi-trash-can</v-icon>
-          </v-btn> -->
           <TarefaMenu 
           :tarefa="tarefa"
           />
