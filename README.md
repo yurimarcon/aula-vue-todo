@@ -38,7 +38,7 @@ Acompanhe o console, mas provavelmente o projeto estará rodando em http://local
 
 <hr>
 
-## Youtube
+## YouTube
 
 Se quiser criar esse projeto do ZERO, você pode acompanhar essa playlist no youtube onde fazemos juntos:
 
