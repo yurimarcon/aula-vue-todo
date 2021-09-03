@@ -30,16 +30,17 @@ Esse é um projeto para fins didáticos porém utilizamos diverssas tecnologias 
 - Localbase
 - Netlify
 
-Após clonar o projeto, entre na pasta em questão e execute no seu terminal o comando:
+Caso quera clonar o projeto, para colocar para rodar entre na pasta em questão e execute no seu terminal o comando:
 ~~~javascript
 npm install && npm run serve
 ~~~
 Acompanhe o console, mas provavelmente o projeto estará rodando em http://localhost:8080
 
 <hr>
+
 ## Youtube
 
-Nessa playlist no youtube fazemos juntos essa lista de tarefas:
+Se quiser criar esse projeto do ZERO, você pode acompanhar essa playlist no youtube onde fazemos juntos:
 
 [![Watch the video](https://user-images.githubusercontent.com/44410208/127400712-2850ba05-ddaa-42ba-ab00-2ac625b168ec.png)](https://youtu.be/fL2BAYzCIZs)
 
