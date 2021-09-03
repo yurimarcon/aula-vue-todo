@@ -4,12 +4,13 @@
       <p>
         Essa é uma lista de tarefas desenvolvida para fins didáticos
         com Vue.js. Você pode acompanhar o passo a passo para a criação desse 
-        projeto em uma playlist gratúita que está no you tube:
+        projeto em uma playlist gratúita que está no YouTube:
       </p>
       <center>
         <iframe 
-        width="560" 
-        height="315" 
+        min-width="100%"
+        max-height="315"
+        
         style="border-radius: 10px"
         src="https://www.youtube.com/embed/fL2BAYzCIZs" 
         title="Playlist do YouTube" 
@@ -39,7 +40,18 @@
         </v-list-item>
       </template>
     </v-list>
-
+    <hr>
+    <section>
+      <p>
+        <v-card-title>Obrigado por prestigiar o projeto!!!</v-card-title>
+        <v-card-subtitle >Contato:</v-card-subtitle>
+        <v-card-text>
+        <strong>📨E-mail:</strong> yuri.erik.oliveira@gmail.com<br>
+        <strong>🧑‍💻 Yuri Marcon</strong><br>
+        <img src="../assets/octocat.png" height="20px" alt="imagem octocat" /> <a href="https://github.com/yurimarcon">/yurimarcon</a>
+        </v-card-text>
+      </p>
+    </section>
       
   </div>
 </template>
@@ -71,6 +83,10 @@ export default {
           icon: "mdi-vuejs"
         },
         {
+          titulo: "Localbase DB",
+          icon: "mdi-database"
+        },
+        {
           titulo: "Animate.css",
           icon: "mdi-transition"
         },
@@ -85,6 +101,10 @@ export default {
         {
           titulo: "GitHub",
           icon: "mdi-github"
+        },
+        {
+          titulo: "Netlify",
+          icon: "mdi-web"
         },
       ]
     }

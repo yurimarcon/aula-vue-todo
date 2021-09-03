@@ -15,7 +15,7 @@
       size="100"
       >
         <img
-          src="https://yt3.ggpht.com/qP_NJv-hlgvk_DYu607VFfvOsiasg-s44U6zn8YPjSsp0VB2KbpebZsdBVZkwQ6TFsvvSa1PIpg=s176-c-k-c0x00ffffff-no-rj"
+          src="https://cdn.pixabay.com/photo/2020/02/17/07/39/pen-4855775_960_720.jpg"
           alt="John"
         >
       </v-avatar>
@@ -75,7 +75,10 @@
         <v-app-bar-title
         class="mt-16"
         >
-          <InputTarefa />
+          <InputTarefa
+          style="padding: 0 !important; min-width: 100% !important;"
+          />
+
         </v-app-bar-title>
       </center>
 
